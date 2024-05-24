@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkGKWU4ONuHGAeOUbU3nuqjvzgEm0i6nq2gwrU3pRy/uRaJMg+FSC44h++WATaAGYStC5u6Imj0iawDMa5b2Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Desktop\\Gestionautonomo\\Cementerio\\Cementerio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
